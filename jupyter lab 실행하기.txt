@@ -1,0 +1,4 @@
+https://cafe.naver.com/bigdataui
+
+cmd 실행(관리자 권한으로)
+>> jupyter lab [폴더 경로]
