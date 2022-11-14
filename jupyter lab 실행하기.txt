@@ -5,3 +5,5 @@ cmd 실행(관리자 권한으로)
 
 # tensorflow 설치하기
 pip install tensorflow
+pip install gensim
+pip install pyLDAvis
